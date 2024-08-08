@@ -30,3 +30,6 @@ This Arduino project uses an ultrasonic sensor to detect when a door is opened o
 2. Upload the code to your Arduino board.
 3. Mount the wall with ultrasonic sensor facing door.
 4. Observe the servo motor movement as the door opens and closes.
+
+## Update 1:
+- I made a simple 3d design for a case, I'm going to get it printed later this week and I'll add pics of it working. For now the STL is in one of the files so feel free to check it out or edit it :)
